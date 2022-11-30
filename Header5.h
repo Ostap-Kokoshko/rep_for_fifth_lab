@@ -15,9 +15,9 @@ enum Colours
 class Point
 {  
 public:
-    int x; //Абсциса
+    int x; //Abscissa
 
-    int y; //Ордината
+    int y; //Ordinate
 
     int paints;
 
